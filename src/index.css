@@ -1,0 +1,12 @@
+body {
+	width: 100% !important;
+  	margin: 0 auto;
+  	background-color: #e3e3e3;
+  	padding:  10px 10px;
+  	font-family: sans-serif;
+}
+.container {
+	width: 50%;
+	margin: 0 auto;
+	float: left;
+}
